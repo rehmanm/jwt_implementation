@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{774BB1F7-F567-44EF-88F2-4CFF2D98984C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationService", "AuthenticationService\AuthenticationService.csproj", "{DE9C8B33-29DC-4F77-AC52-D4AF5D2A7280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{774BB1F7-F567-44EF-88F2-4CFF2D98984C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{774BB1F7-F567-44EF-88F2-4CFF2D98984C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{774BB1F7-F567-44EF-88F2-4CFF2D98984C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{774BB1F7-F567-44EF-88F2-4CFF2D98984C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE9C8B33-29DC-4F77-AC52-D4AF5D2A7280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE9C8B33-29DC-4F77-AC52-D4AF5D2A7280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE9C8B33-29DC-4F77-AC52-D4AF5D2A7280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE9C8B33-29DC-4F77-AC52-D4AF5D2A7280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6A99C14-3BCF-4EF1-BC31-8A9DDE102DEA}
+	EndGlobalSection
+EndGlobal
